@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Piyush.
 - 👀 I’m currently learning web development and also have interest in competitive programming as well.
-- I am a curious learner and currently in third year.
+- I am a curious learner and currently studying in third year.
 
 
 
