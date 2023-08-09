@@ -1,6 +1,3 @@
-- 👋 Hi, my name is Piyush.
-- 👀 I’m currently learning web development and also have interest in competitive programming as well.
-- I am a curious learner and currently studying in third year.
 
 <h1 align="center">Hi 👋, I'm Piyush Kakde</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
