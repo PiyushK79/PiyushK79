@@ -16,7 +16,7 @@
 <a href = "mailto:piyushkakde79@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/piyush-kakde-6114ba214"><img align="center" src="linkedin.png" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/piyush-kakde-6114ba214">![Image](linkedin.png)</a>
 <a href="https://leetcode.com/piyush_kakde79/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="https://www.leetcode.com/https://leetcode.com/piyush_kakde79/" height="30" width="40" /></a><a href="https://www.behance.net/piyushkakde79" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="https://www.behance.net/https://www.behance.net/piyushkakde79" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
