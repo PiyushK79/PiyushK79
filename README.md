@@ -15,9 +15,12 @@
 <a href="https://github.com/PiyushK79" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:piyushkakde79@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
+
+<div style="width:32px height:32px">
 <p align="left">
-<img align="center" src="linkedin2.png" height="30" width="40" />
+![Employee data](linkedin2.png?raw=true)
 <a href="https://leetcode.com/piyush_kakde79/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="https://www.leetcode.com/https://leetcode.com/piyush_kakde79/" height="30" width="40" /></a><a href="https://www.behance.net/piyushkakde79" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="https://www.behance.net/https://www.behance.net/piyushkakde79" height="30" width="40" /></a></p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
