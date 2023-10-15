@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Kakde</h1>
 <h3 align="center">A passionate Web developer and UI/UX Designer</h3>
-<br />
-<img src="https://holopin.io/@piyushk79" alt="PiyushK79" />
 
-<br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PiyushK79&theme=darkhub" alt="PiyushK79" /></a> </p>
 
 - 🔭 I’m currently working on **Full stack real estate application**
